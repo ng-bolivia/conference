@@ -1,4 +1,4 @@
-# Codigo de Conducta
+# Código de Conducta
 **NG Bolivia** es la conferencia anual donde personas de todo el país vienen a compartir ideas, experiencias, nuevas prácticas y por supuesto la firme convicción de engrandecer esta comunidad y que las nuevas conexiones que se hagan durante el tiempo que dure la conferencia sean duraderas para este año y los que vengan.
 
 Para este propósito la organización trabaja duro para fortalecer la comunidad e invitar a nuevas personas hacia la misma con el único propósito de trasmitir la pasión por la tecnología en la cual estamos involucrados. Es por eso que estamos convencidos de que para lograr que la comunidad sea una de las mejores consideramos que es importante tomar en cuenta diversos grupos de personas sin importar el **sexo**, **identidad y expresión de género**, **orientación sexual**, **discapacidad**, **apariencia física**, **tamaño corporal**, **raza**, **afiliación política o religión**.
